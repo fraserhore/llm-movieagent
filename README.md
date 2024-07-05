@@ -3,7 +3,7 @@
 This project is designed to implement an agent capable of interacting with a graph database like Neo4j through a semantic layer using OpenAI function calling.
 The semantic layer equips the agent with a suite of robust tools, allowing it to interact with the graph database based on the user's intent.
 
-![Workflow diagram](https://raw.githubusercontent.com/tomasonjo/llm-movieagent/main/api/packages/neo4j-semantic-layer/static/workflow.png)
+![Workflow diagram](https://raw.githubusercontent.com/tomasonjo/llm-moaz acr login --name <acrName>az acr login --name <acrName>vieagent/main/api/packages/neo4j-semantic-layer/static/workflow.png)
 
 To start the project, run the following command:
 
